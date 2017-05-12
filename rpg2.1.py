@@ -175,4 +175,7 @@ def main():
 
         board_with_player = insert_player(board, x_pos, y_pos)
         print_board(board_with_player)
+        if x_pos == 2 and y_pos == 2:
+            os.system('clear')
+            hall_of_fame()
 main()
