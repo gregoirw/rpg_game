@@ -48,16 +48,16 @@ X                                      AAAAA                  AAAAAAA           
 X                                     AAAAAAA                    #                                X
 X               A                        #                                                        X
 X              AAA                                                                A               X
-X             AAAAA                                                              AAA              X
-X            AAAAAAA                                                            AAAAA             X
-X               #                                                              AAAAAAA            X
-X                                                                                 #               X
-X                                      A                                                          X
-X OoOoOoOoOoOoOoOoOoOoOoO             AAA                        A                                X
-X     OoOoOoOoOoOo                   AAAAA                      AAA                               X
-X                                   AAAAAAA                    AAAAA                              X
-X                                      #                      AAAAAAA                             X
-X        A                                                       #                                X
+X             AAAAA                         OoOoOoOoOoOo                         AAA              X
+X            AAAAAAA                oOoOoOoOoOoOoOoOoOoOoOoOoOoOo               AAAAA             X
+X               #            OoOoOoOoOoOo                 OoOoOoOoOoOo         AAAAAAA            X
+X                      OoOoOoOoOoOo                             OoOoOoOoOoOo      #               X
+X              OoOoOoOoOoOo            A                             OoOoOoOo                     X
+X OoOoOoOoOoOoOoOoOoOoOoO             AAA                        A       OoOoOoOoOoOo             X
+X     OoOoOoOoOoOo                   AAAAA                      AAA          OoOoOoOoOoOo         X
+X                                   AAAAAAA                    AAAAA             OoOoOoOoOoOo     X
+X                                      #                      AAAAAAA                OoOoOoOoOoOo X
+X        A                                                       #                         OoOoOoOX
 X       AAA                                                                                       X
 X      AAAAA                                                                                      X
 X     AAAAAAA                                      A                                              X
